@@ -1,0 +1,5 @@
+{"filename": "mirapolis\\ch01.md", "lineno": 389, "status": "working", "code": 0, "uri": "https://hr-insz.mos.ru/mira/", "info": ""}
+{"filename": "mirapolis\\ch01.md", "lineno": 359, "status": "working", "code": 0, "uri": "https://chrome.google.com/webstore/detail/%D0%BC%D0%B8%D1%80%D0%B0%D0%BF%D0%BE%D0%BB%D0%B8%D1%81-%D1%80%D0%B5%D0%BA%D1%80%D1%83%D1%82%D0%B5%D1%80/aideeiglpbknjghjdfkdhgkmpcllhaof", "info": ""}
+{"filename": "mirapolis\\ch01.md", "lineno": 253, "status": "working", "code": 0, "uri": "https://hh.ru/", "info": ""}
+{"filename": "mirapolis\\ch01.md", "lineno": 253, "status": "working", "code": 0, "uri": "https://www.superjob.ru/", "info": ""}
+{"filename": "mirapolis\\ch01.md", "lineno": 353, "status": "broken", "code": 0, "uri": "https://linkedIn.com/", "info": "HTTPSConnectionPool(host='linkedin.com', port=443): Read timed out. (read timeout=None)"}

@@ -1,0 +1,1 @@
+mirapolis\ch01.md:353: [broken] https://linkedIn.com/: HTTPSConnectionPool(host='linkedin.com', port=443): Read timed out. (read timeout=None)

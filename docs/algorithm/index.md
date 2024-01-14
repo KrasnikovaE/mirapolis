@@ -12,7 +12,6 @@ kernelspec:
 (algorithm_index)=
 # Алгоритм действий
 
-
 <img src="./images/algorithm_0.png" alt="" width="100%">
 <img src="./images/algorithm_1.png" alt="" width="100%">
 <img src="./images/algorithm_2.png" alt="" width="100%">

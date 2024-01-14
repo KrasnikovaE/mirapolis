@@ -14,4 +14,5 @@ kernelspec:
 
 Тут будет, а может и нет какой-то текст.
 
+
 <img src="./images/logo-vertical.svg" alt="Профессии будущего" width="100%">

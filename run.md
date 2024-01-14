@@ -19,13 +19,13 @@ kernelspec:
 ```{code-cell} ipython3
 # Сделать pdf локально
 ! jupyter-book build  --all --builder pdflatex ./docs
-! copy .\docs\_build\latex\book.pdf .\docs\_static\download\mirapolis.pdf
+! copy .\docs\_build\latex\book.pdf .\docs\_static\download\promirapolis.pdf
 ```
 
 ```{code-cell} ipython3
 # Сделать и опубликовать
 ! jupyter-book build  --all --builder html ./docs
 ! jupyter-book build  --all --builder pdflatex ./docs
-! copy .\docs\_build\latex\book.pdf .\docs\_static\download\mirapolis.pdf
+! copy .\docs\_build\latex\book.pdf .\docs\_static\download\promirapolis.pdf
 ! ghp-import ./docs/_build/html --no-jekyll --push --force --cname=promirapolis.ru
 ```

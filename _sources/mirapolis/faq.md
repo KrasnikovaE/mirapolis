@@ -18,6 +18,7 @@ kernelspec:
 
 ## Категория 1
 
+
 :::{admonition} Вопрос 1
 :class: tip
 :class: dropdown

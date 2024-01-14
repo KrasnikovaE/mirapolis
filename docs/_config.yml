@@ -7,7 +7,7 @@ copyright: '2024'
 logo: _static/images/logo.svg
 email: writer@bookseer.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Инструкция Профессии будущего
+  Инструкции по работе с системой «Мираполис»
 
 # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
 exclude_patterns: ["**.ipynb_checkpoints"]
@@ -23,7 +23,7 @@ only_build_toc_files: false
 repository:
 
   # Online location of your book
-  url: https://github.com/bookseer/mira
+  url: https://github.com/KrasnikovaE/mirapolis
 
   # Optional path to your book, relative to the repository root
   path_to_book: docs
@@ -142,7 +142,7 @@ html:
 
   # The base URL where your book will be hosted.
   # Used for creating image previews and social links.
-  baseurl: "https://mira.bookseer.org/"
+  baseurl: "https://mirapolis.ru/"
 
   # A path to a favicon image
   favicon: "_static/images/favicon.ico"
@@ -211,8 +211,8 @@ sphinx:
 
   # A list of extra extensions to load by Sphinx (added to those already used by JB).
   extra_extensions:
-    - sphinx_inline_tabs
-    - sphinx_proof
+    #- sphinx_inline_tabs
+    #- sphinx_proof
     - sphinx_togglebutton
     #- sphinxext.rediraffe
 

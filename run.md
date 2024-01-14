@@ -12,13 +12,14 @@ kernelspec:
 ---
 
 ```{code-cell} ipython3
-# Сделать html
+# Сделать html локально
 ! jupyter-book build  --all --builder html ./docs
 ```
 
 ```{code-cell} ipython3
-# Сделать pdf
-! jupyter-book build  --all --builder pdfhtml ./docs
+# Сделать pdf локально
+! jupyter-book build  --all --builder pdflatex ./docs
+! copy .\docs\_build\latex\book.pdf .\docs\_static\download\mirapolis.pdf
 ```
 
 ```{code-cell} ipython3
@@ -31,4 +32,18 @@ kernelspec:
 
 ```{code-cell} ipython3
 
+```
+
+```{code-cell} ipython3
+! cd ./docs/_build/latex
+! ./docs/_build/latex/make.bat
+```
+
+```{code-cell} ipython3
+! jupyter-book build  --all --builder pdflatex ./docs
+```
+
+```{code-cell} ipython3
+
+! dir
 ```

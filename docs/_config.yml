@@ -185,7 +185,7 @@ html:
 latex:
 
   # latex_engine  one of 'pdflatex', 'xelatex' (recommended for unicode), 'luatex', 'platex', 'uplatex'
-  latex_engine: xelatex
+  latex_engine: pdflatex
 
   # Use sphinx-jupyterbook-latex for pdf builds as default
   use_jupyterbook_latex: true

@@ -1,0 +1,9 @@
+/* BookSeer styles */
+
+h1, a {color: #E44621 !important;}
+
+p.prev-next-title
+
+nav.bd-links .current > a {color: #E44621 !important;}
+
+ul > a.reference.internal {color: #E44621 !important;}

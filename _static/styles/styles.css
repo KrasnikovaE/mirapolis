@@ -1,0 +1,19 @@
+/* BookSeer styles */
+
+h1, h2, h3, a {color: #E44621 !important;}
+
+nav.bd-links .current > a {box-shadow: inset max(3px,.1875rem,.12em) 0 0 #E44621;}
+
+p.prev-next-title {color: #E44621 !important;}
+
+
+.toc-entry a.nav-link.active {
+    box-shadow: inset max(3px,.1875rem,.12em) 0 0 #E44621;
+
+}
+
+/*
+nav.bd-links .current > a {color: #E44621 !important;}
+
+ul > a.reference.internal {color: #E44621 !important;}
+*/

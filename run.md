@@ -29,3 +29,7 @@ kernelspec:
 ! copy .\docs\_build\latex\book.pdf .\docs\_static\download\promirapolis.pdf
 ! ghp-import ./docs/_build/html --no-jekyll --push --force --cname=promirapolis.ru
 ```
+
+```{code-cell} ipython3
+
+```

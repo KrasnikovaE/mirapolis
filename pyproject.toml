@@ -125,10 +125,7 @@ jupyter-book build  --all --builder linkcheck ./docs
 
 # Build book
 build = """
-jupyter-book build  --all --builder linkcheck ./docs
-jupyter-book build  --all --builder html ./docs
-jupyter-book build  --all --builder pdflatex ./docs
-cp -aT ./docs/_build/latex/book.pdf ./docs/_static/download/prof.pdf
+
 """
 
 # Build and publish book

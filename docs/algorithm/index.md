@@ -10,9 +10,9 @@ kernelspec:
 ---
 
 (algorithm_index)=
-# Алгоримт действий
+# Алгоритм действий
 
-
+<p style="page-break-after:always;"></p>
 
 <img src="./images/algorithm_1.png" alt="" width="100%">
 <img src="./images/algorithm_2.png" alt="" width="100%">

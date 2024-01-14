@@ -21,3 +21,5 @@ p.prev-next-title {color: #000000 !important;}
 
 
 .toc-entry a.nav-link.active {box-shadow: inset max(3px,.1875rem,.12em) 0 0 #000000;}
+
+p.component-author {visibility: hidden;}

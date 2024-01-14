@@ -16,7 +16,7 @@ kernelspec:
 
 Версия 1.00
 
-<a href='../_static/download/prof.pdf' target="_blank">{bdg-primary}`Скачать инструкцию в PDF`</a>
+<a href='../_static/download/promirapolis.pdf' target="_blank">{bdg-primary}`Скачать инструкцию в PDF`</a>
 
 <img src="./images/logo-mirapolis-big.png" alt="Мираполис" width="100%">
 

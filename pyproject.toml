@@ -134,6 +134,6 @@ cp -aT ./docs/_build/latex/book.pdf ./docs/_static/download/prof.pdf
 # Build and publish book
 publish = """
 poetry exec build
-ghp-import ./docs/_build/html --no-jekyll --push --force --cname=mira.bookseer.org
+ghp-import ./docs/_build/html --no-jekyll --push --force --cname=promirapolis.ru
 """
 

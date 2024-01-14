@@ -6,7 +6,7 @@ author: Центр «Профессии будущего»
 copyright: '2024'
 logo: _static/images/logo.svg
 email: writer@bookseer.org
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- # this ms to ignore newlines until "baseurl:"
   Инструкции по работе с системой «Мираполис»
 
 # Patterns to skip when building the book. Can be glob-style (e.g. "*skip.ipynb")
@@ -127,9 +127,8 @@ parse:
 html:
 
   # A banner announcement at the top of the site.
-  #announcement: |
-  #    <a href='../_static/download/book_v1.pdf'><span class='badge badge-secondary'>Скачать pdf. Вариант 1</span></a>
-  #    <a href='../_static/download/book_v2.pdf'><span class='badge badge-secondary'>Скачать pdf. Вариант 2</span></a>
+  # announcement: 
+
 
   # Adding extra HTML to the footer
   extra_footer: |

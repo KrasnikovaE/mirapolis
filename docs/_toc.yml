@@ -19,6 +19,9 @@ parts:
     - file: mirapolis/ch04
     - file: mirapolis/ch05
     - file: mirapolis/ch06
+  - file: algorithm/index
   - file: mirapolis/faq
+  
+
 
 

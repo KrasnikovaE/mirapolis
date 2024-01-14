@@ -132,7 +132,8 @@ html:
 
   # Adding extra HTML to the footer
   extra_footer: |
-    Copyright &copy; 2024, Все права защищены
+    <p>Copyright &copy; 2024, Все права защищены</p>
+    <p>Центр «Профессии будущего»</p>
   # Add extra HTML to the left navbar
   extra_navbar: <div>YOUR HTML</div>
 

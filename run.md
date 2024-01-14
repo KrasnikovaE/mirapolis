@@ -24,8 +24,8 @@ kernelspec:
 ```{code-cell} ipython3
 # Сделать и опубликовать
 ! jupyter-book build  --all --builder linkcheck ./docs
-! jupyter-book build  --all --builder pdflatex ./docs
-! copy ./docs/_builder/latex/book.pdf ./docs/_static/download/promirapolis.pdf
+#! jupyter-book build  --all --builder pdflatex ./docs
+#! copy ./docs/_builder/latex/book.pdf ./docs/_static/download/promirapolis.pdf
 ! ghp-import ./docs/_build/html --no-jekyll --push --force --cname=promirapolis.ru
 ```
 

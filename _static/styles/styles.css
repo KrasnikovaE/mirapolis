@@ -23,3 +23,6 @@ p.prev-next-title {color: #000000 !important;}
 .toc-entry a.nav-link.active {box-shadow: inset max(3px,.1875rem,.12em) 0 0 #000000;}
 
 p.component-author {visibility: hidden;}
+
+@media (min-width: 960px
+nav.bd-links p.caption: {font-size: 16px !important}

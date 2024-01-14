@@ -22,7 +22,7 @@ parts:
     - file: mirapolis/model
   - file: algorithm/index
   - file: mirapolis/faq
-  
+  - file: mirapolis/new
 
 
 

@@ -11,7 +11,7 @@ kernelspec:
   name: python3
 ---
 
-(mirapolis_index)=
+(mirapolis_model)=
 # Описание статусной модели
 
 

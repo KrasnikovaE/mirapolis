@@ -13,7 +13,7 @@ kernelspec:
 
 ```{code-cell} ipython3
 # Сделать html
-! jupyter-book build  --all --builder linkcheck ./docs
+! jupyter-book build  --all --builder html ./docs
 ```
 
 ```{code-cell} ipython3
@@ -23,7 +23,7 @@ kernelspec:
 
 ```{code-cell} ipython3
 # Сделать и опубликовать
-! jupyter-book build  --all --builder linkcheck ./docs
+! jupyter-book build  --all --builder html ./docs
 #! jupyter-book build  --all --builder pdflatex ./docs
 #! copy ./docs/_builder/latex/book.pdf ./docs/_static/download/promirapolis.pdf
 ! ghp-import ./docs/_build/html --no-jekyll --push --force --cname=promirapolis.ru

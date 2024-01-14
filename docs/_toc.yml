@@ -5,11 +5,12 @@ format: jb-book
 root: index
 defaults:
   titlesonly: True
-parts:
   
-- caption: Мираполис
-  numbered: false
-  chapters:
+#parts:
+  
+#- caption: Мираполис
+#  numbered: false
+chapters:
   - file: mirapolis/index
     sections:
     - file: mirapolis/ch01

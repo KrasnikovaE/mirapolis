@@ -18,7 +18,7 @@ kernelspec:
 
 ```{code-cell} ipython3
 # Сделать pdf
-! jupyter-book build  --all --builder pdflatex ./docs
+! jupyter-book build  --all --builder pdfhtml ./docs
 ```
 
 ```{code-cell} ipython3

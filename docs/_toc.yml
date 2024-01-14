@@ -6,11 +6,11 @@ root: index
 defaults:
   titlesonly: True
   
-#parts:
+parts:
   
-#- caption: Мираполис
-#  numbered: false
-chapters:
+- caption: Мираполис
+  numbered: false
+  chapters:
   - file: mirapolis/index
     sections:
     - file: mirapolis/ch01
@@ -19,6 +19,6 @@ chapters:
     - file: mirapolis/ch04
     - file: mirapolis/ch05
     - file: mirapolis/ch06
-    - file: mirapolis/faq
+  - file: mirapolis/faq
 
 

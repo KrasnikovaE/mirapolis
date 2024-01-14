@@ -6,13 +6,7 @@ root: index
 defaults:
   titlesonly: True
 parts:
-- caption: Профессии будущего
-  numbered: false
-  chapters:
-  - file: info/index
-    sections:
-    - file: info/typography
-    - file: info/faq
+  
 - caption: Мираполис
   numbered: false
   chapters:
@@ -24,6 +18,6 @@ parts:
     - file: mirapolis/ch04
     - file: mirapolis/ch05
     - file: mirapolis/ch06
-    #- file: mirapolis/ch07
+    - file: mirapolis/faq
 
 

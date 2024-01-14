@@ -14,6 +14,8 @@ kernelspec:
 (mirapolis_index)=
 # Инструкция по работе с системой Mirapolis
 
+<a href='../_static/download/promirapolis.pdf' target="_blank">{bdg-primary}`Скачать инструкцию в PDF`</a>
+
 Настоящий документ описывает порядок действий, доступных пользователям с
 ролью «Рекрутер» системы («Mirapolis HCM», далее
 по тексту -- «Система») при работе с блоком «Подбор»:
@@ -27,9 +29,6 @@ kernelspec:
 
 <img src="./images/logo-mirapolis-big.png" alt="Мираполис" width="100%">
 
-<!--
-<a href='../_static/download/promirapolis.pdf' target="_blank">{bdg-primary}`Скачать инструкцию в PDF`</a>
--->
 
 
 
